@@ -110,9 +110,9 @@ Instalación y Configuración
 
 Clonar el repositorio desde GitHub:
 
-    git clone https://github.com/tuusuario/envio-xml-soap.git
-    cd envio-xml-soap
-
+    git clone https://github.com/rovito/enviarXMLSoap.git
+    cd enviarXMLSoap
+    
 Instalar dependencias:
 
     pip install zeep
