@@ -1,0 +1,8 @@
+http://qa.pacmasnegocio.com:2379/cfdi/sellado
+
+{
+  "Tipo": "zip",
+  "ComprobanteZIPBase64": "",
+	"NoControl": "NoControl",
+	"Version": "4.0"
+}

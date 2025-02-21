@@ -1,0 +1,8 @@
+http://qa.pacmasnegocio.com:2379/cfdi/sellado
+
+{
+	"Tipo": "xml",
+	"comprobanteXmlBase64": "xmlb64",
+	"NoControl": "test_john2",
+	"Version": "4.0"
+}
